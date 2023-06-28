@@ -1,164 +1,52 @@
-![Logo](https://github.com/abhishekyadav0888/able-laborer-3546/assets/111178057/2e2bbd27-e1bd-451c-b2d9-3bee22e5865e)
-# REST API for Online Cab Booking Service
+<h1 align="center">AJIO CLONE</h1>
+<h2 align="center">Inspired from the website AJIO.com, an E-commerce website.</h2>
 
-* We have developed this REST API for Online Cab Booking Application. This API performs all the fundamental CRUD operations of any Cab Booking Application platform with user validation at every step.
-* This project is developed by team of 5 Back-end Developers during project week in Masai School. 
+<br />
 
-## Tech Stack
+<h3 align="center">
+  <a href="https://rad-wisp-02436f.netlify.app">
+    <strong>Want to see live preview »</strong>
+  </a>
+</h3>
 
-* Java
-* Spring Framework
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* MySQL
-* Spring Security
+<p align="center">
+  <br />&#10023;
+  <a href="#Demo">View Demo</a>   &#10023;  
+  <a href="https://github.com/Abhii-07/Ajio-Clone/issues">Report Bug</a>    &#10023;
+  <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
+  <a href="#Contact">Author</a> &#10023;
+</p>
 
-## Modules
+<br />
 
-* Login Module
-* Admin Module
-* Customer Module
-* Driver Management Module
-* Cab Management Module
-* Booking Management Module
+This is a clone of a popular E-commerce website, AJIO.com. This website allows users to purchase clothes, footwear, and accessories from a variety of options available.
 
-## Features
+## 🚀 Features
+- User Sign-In & Sign-Up popup model
+- All types of Sort & Filters functionalities 
+- Add to cart & wishlist features
+- Interactive website
+- Responsive for every screen size.
 
-* Admin, Customer and Driver authentication JWT Token.
-* Admin Features:
-    * Administrator Role of the entire application
-* Customer Features:
-    * Registering themselves with application, and logging in to get the valid JWT token
+<br />
 
-* Driver Features:
-    * Registering themselves with application, and logging in to get the valid JWT token
+## Getting Started
 
-## Contributors
+This project was built using HTML5, CSS3, JavaScript, and Rest API. It is a web application, and to run it on your local environment, you should follow these guidelines.
 
-* [@Abhishek Yadav](https://github.com/abhishekyadav0888)
-* [@Abhijeet Hiwale](https://github.com/Abhii-07)
-* [@Lokesh Gola](https://github.com/LokeshGola)
-* [@Roopa Ram](https://github.com/rooparam01)
+### Tools used on this project
+- Visual Studio Code
 
-## Installation & Run
+<br />
 
-* Before running the API server, you should update the database config inside the [application.properties](https://github.com/abhishekyadav0888/able-laborer-3546/blob/main/RideEasy/src/main/resources/application.properties) file. 
-* Update the port number, username and password as per your local database config.
+## Contact
 
-```
-    server.port=8088
+If you want to contact me, you can reach me through the below handles.
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/rideeasy
-    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.username=root
-    spring.datasource.password=root
+[![linkedin](https://img.shields.io/badge/Abhii-07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeethiwale/)
 
-```
+© 2022 Abhijeet Hiwale
 
-## API Root Endpoint
+## Show your support
 
-`https://localhost:8088/`
-
-`http://localhost:8088/swagger-ui.html/`
-
-
-## API Module Endpoints
-
-### Login Module
-
-* `POST //login/admin` : Admin can login with username and password provided at the time of registation
-
-
-### Customer Module
-
-* `POST /customers` : Register a new customer with proper data validation
-  
-
-
-### Admin Module
-
-* `POST /admin` : Register a new admin with proper data validation
-
-### Driver Module
-
-* `POST /driver` : Register a new driver with proper data validation
-
-
-
-### Sample API Response for Admin Register
-
-`POST   localhost:8088/admin`
-
-* Request Body
-
-```
-    {
-        "userName": "xyz123",
-        "password": "abcde",
-        "name" : "dummy",
-        "email" : "dummy@gmail.com",
-        "mobileNumber" : "9555555555"
-    }
-```
-
-* Response
-
-```
-   { adminId=1, userName=xyz123, name=dummy, email=dummy@gmail.com, mobileNumber=9555555555 }
-   
-```
- 
-### E-R Diagram
-
-
-
-![ERDaigram](https://github.com/abhishekyadav0888/able-laborer-3546/assets/111178057/c9429409-ab13-4e85-b1f5-7f7045b037d8)
-
-
-
-
-### Swagger UI
-
----
-
-
-
----
-
-### Customer and Customer Login Controller
-
----
-
-
-
----
-
-### Admin and Admin Login Controller
-
----
-
-
-
----
-
-### Driver and Driver Login Controller
-
----
-
-
-
----
-
-
-### Trip Controller
-
----
-
-
-
----
-
-
-
-
+Give a ⭐️ if you like this project!
