@@ -1,52 +1,37 @@
-<h1 align="center">AJIO CLONE</h1>
-<h2 align="center">Inspired from the website AJIO.com, an E-commerce website.</h2>
+<h1 align="center">RideEasy - Cab Service App</h1>
+<h2 align="center">RideEasy is an online cab booking service that provides a REST API for users to book and manage cab rides. The REST API allows users to perform all the fundamental CRUD (Create, Read, Update, Delete) operations associated with a cab booking application. It incorporates user validation at every step to ensure secure and authenticated interactions.</h2>
 
-<br />
-
-<h3 align="center">
-  <a href="https://rad-wisp-02436f.netlify.app">
-    <strong>Want to see live preview »</strong>
-  </a>
-</h3>
-
+<h1 align="center">🛠️ Tech Stack</h1>
 <p align="center">
-  <br />&#10023;
-  <a href="#Demo">View Demo</a>   &#10023;  
-  <a href="https://github.com/Abhii-07/Ajio-Clone/issues">Report Bug</a>    &#10023;
-  <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-  <a href="#Contact">Author</a> &#10023;
+    Client:<i>HTML, CSS, JavaScript</i>  | Server: <i>Java, Spring Boot, Spring Data JPA, MySQL, Hibernate, Spring Security</i>
 </p>
 
 <br />
+<p align="center">
+  <img src="https://github.com/abhishekyadav0888/able-laborer-3546/assets/111178057/2e2bbd27-e1bd-451c-b2d9-3bee22e5865e">
+</p>
 
-This is a clone of a popular E-commerce website, AJIO.com. This website allows users to purchase clothes, footwear, and accessories from a variety of options available.
+  <h3 align="center"><a href="https://glamgrab-react.vercel.app/"><strong>Want to see live preview »</strong></a></h3>    
+  <p align="center"> 
+    <br />&#10023;
+    <a href="https://glamgrab-react.vercel.app/">View Demo</a>   &#10023;  
+    <a href="https://github.com/Abhii-07/React-ecommerce-app/issues">Report Bug</a>    &#10023;  
+  </p>
+<br/>
+
+
+
+This a website inspired by a popular E-commerce website, AJIO.com. This webiste is purchasing cloths,footwear and accessiories from a varity of options available.
 
 ## 🚀 Features
-- User Sign-In & Sign-Up popup model
-- All types of Sort & Filters functionalities 
-- Add to cart & wishlist features
-- Interactive website
-- Responsive for every screen size.
 
-<br />
+<ul>
+  <li>JWT Token-based authentication for admins, customers, and drivers.</li>
+  <li>Admin module with administrator privileges for managing the entire application.</li>
+  <li>Customer module allowing users to register, log in, and obtain valid JWT tokens.</li>
+  <li>Driver module enabling drivers to register, log in, and obtain valid JWT tokens.</li>
+</ul>
 
-## Getting Started
+## 💖 Credits
 
-This project was built using HTML5, CSS3, JavaScript, and Rest API. It is a web application, and to run it on your local environment, you should follow these guidelines.
-
-### Tools used on this project
-- Visual Studio Code
-
-<br />
-
-## Contact
-
-If you want to contact me, you can reach me through the below handles.
-
-[![linkedin](https://img.shields.io/badge/Abhii-07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeethiwale/)
-
-© 2022 Abhijeet Hiwale
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+This project was created by Abhijeet Hiwale
