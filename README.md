@@ -10,18 +10,7 @@
 <p align="center">
   <img src="https://github.com/abhishekyadav0888/able-laborer-3546/assets/111178057/2e2bbd27-e1bd-451c-b2d9-3bee22e5865e">
 </p>
-
-  <h3 align="center"><a href="https://glamgrab-react.vercel.app/"><strong>Want to see live preview »</strong></a></h3>    
-  <p align="center"> 
-    <br />&#10023;
-    <a href="https://glamgrab-react.vercel.app/">View Demo</a>   &#10023;  
-    <a href="https://github.com/Abhii-07/React-ecommerce-app/issues">Report Bug</a>    &#10023;  
-  </p>
-<br/>
-
-
-
-This a website inspired by a popular E-commerce website, AJIO.com. This webiste is purchasing cloths,footwear and accessiories from a varity of options available.
+ 
 
 ## 🚀 Features
 
